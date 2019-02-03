@@ -54,7 +54,6 @@ header {
 
 header section {
   margin: 0 auto;
-  width: 640px;
 }
 
 header img {
@@ -76,7 +75,7 @@ main {
   font-weight: bold;
 }
 
-.course .descrition {
+.course .description {
 }
 
 .school span {
@@ -90,4 +89,9 @@ footer {
   background-position: fixed;
   padding: 1em;
   color: #ffffff;
+}
+
+a.footy {
+  color: #ffffff;
+  text-decoration: none;
 }
