@@ -35,7 +35,7 @@ a:active {
 	color: #000000;
 }
 
-nav, footer, .book, .meta, .adv, .ndop {
+nav, #unprint, .book, .meta, .adv, .ndop {
 	display: none;
 }
 
