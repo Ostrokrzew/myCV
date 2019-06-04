@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
 @page {
-	margin: 16px 32px;
+	margin: 24px 26px 16px 26px;
 	font-family: 'Raleway', serif;
-	font-size: 10pt;
+	font-size: 9pt;
 	line-height: 0px;
 }
 	
@@ -13,11 +13,11 @@ header, section, article, div, footer {
 }
 
 h1 {
-	margin: 8px;
+	margin: 6px;
 }
 
 p {
-	margin: 4px;
+	margin: 2px;
 }
 
 a:link {
@@ -40,10 +40,6 @@ nav, #unprint, .book, .meta, .adv, .ndop {
 }
 
 .agreement {
-  font-size: 8pt;
-  margin: 32px 0px;
-}
-
-.schoolHeader {
-	page-break-before: always;
+  font-size: 7pt;
+  margin: 16px 0px;
 }
