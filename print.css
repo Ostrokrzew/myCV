@@ -13,6 +13,14 @@ header, section, article, div, footer {
 }
 
 h1 {
+	margin: 8px;
+}
+
+h2 {
+	margin: 8px;
+}
+
+h3 {
 	margin: 6px;
 }
 
