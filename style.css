@@ -99,3 +99,11 @@ a.footy {
 .agreement {
   font-size:0.64em;
 }
+
+#print_only {
+  display: none;
+}
+
+.techs a {
+  font-weight: bolder;
+}

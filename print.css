@@ -13,19 +13,23 @@ header, section, article, div, footer {
 }
 
 h1 {
-	margin: 8px;
+	margin: 12px 0px 0px 0px;
 }
 
 h2 {
-	margin: 8px;
+	margin: 10px 0px 0px 0px;
 }
 
 h3 {
-	margin: 6px;
+	margin: 8px 0px 0px 0px;
 }
 
 p {
-	margin: 2px;
+	margin: 2px 0px 0px 2px;
+}
+
+div {
+	margin: 2px 0px 0px 2px;
 }
 
 a:link {
@@ -39,6 +43,7 @@ a:visited {
 a:hover {
 	color: #000000;
 }
+
 a:active {
 	color: #000000;
 }
@@ -50,4 +55,17 @@ nav, #unprint, .book, .meta, .adv, .ndop {
 .agreement {
   font-size: 7pt;
   margin: 16px 0px;
+}
+
+#print_only {
+	display: contents;
+}
+
+.techs span {
+	display: none;
+}
+
+.techs a {
+	font-weight: normal;
+	margin: 0px 0px 0px 0px;
 }
