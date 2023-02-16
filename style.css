@@ -56,9 +56,6 @@ header section {
   margin: 0 auto;
 }
 
-header img {
-}
-
 h1 {
   margin: 1em 0;
   text-transform: uppercase;
@@ -68,14 +65,8 @@ main {
   max-width: 1140px;
 }
 
-.course {
-}
-
 .course .title {
   font-weight: bold;
-}
-
-.course .description {
 }
 
 .school span {
